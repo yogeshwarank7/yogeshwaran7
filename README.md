@@ -53,7 +53,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,React js" />
+ <img src="https://skillicons.dev/icons?i=html,css,js" />
 <br/><br/>
 
 </td>
@@ -99,7 +99,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
+  <a href="https://wa.me/917708748677">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
