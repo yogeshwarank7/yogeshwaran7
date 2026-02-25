@@ -99,7 +99,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://wa.me/917708748677">
+  <a href="mailto:yogeshwarank1969@gmail.com">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
